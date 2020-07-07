@@ -14,4 +14,5 @@ The ultimate objective of NLP is to read, decipher, understand, and make sense o
 
 
 Wordnet
+
 WordNet is a lexical database of semantic relations between words in more than 200 languages. WordNet links words into semantic relations including synonyms, hyponyms, and meronyms. The synonyms are grouped into synsets with short definitions and usage examples. 
